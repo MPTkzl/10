@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Brush x:Key="mainColor">#F8C5B4</Brush>
+    <Brush x:Key="secondColor">#591E6E</Brush>
+    <Brush x:Key="hoverColor">#F8C5B4</Brush>
+    <Brush x:Key="backgroundColor">#FFFFFF</Brush>
+    <FontFamily x:Key="mainFontFamily">Jura</FontFamily>
+
+    <BitmapImage x:Key="backgroundImage" UriSource="../Image/Night.png" />
+
+    <BitmapImage x:Key="backgroundImage" UriSource="../Image/Day.png" />
+>>>>>>> 44cc873b115862736890422f208d333221d845fe
+    <BitmapImage x:Key="backgroundImage" UriSource="../Image/Day.png" />
+>>>>>>> 44cc873b115862736890422f208d333221d845fe
+</ResourceDictionary>

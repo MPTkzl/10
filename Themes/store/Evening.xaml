@@ -1,0 +1,9 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Brush x:Key="mainColor">#F8C5B4</Brush>
+    <Brush x:Key="secondColor">#87B6CA</Brush>
+    <Brush x:Key="hoverColor">#3D95B9</Brush>
+    <Brush x:Key="backgroundColor">#FFFFFF</Brush>
+    <FontFamily x:Key="mainFontFamily">Jura</FontFamily>
+    <BitmapImage x:Key="backgroundImage" UriSource="../Image/MorningEvening.png" />
+</ResourceDictionary>

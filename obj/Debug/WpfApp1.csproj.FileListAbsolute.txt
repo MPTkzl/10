@@ -1,0 +1,163 @@
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\StartWindowView.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\App.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\StartWindowView.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\Themes\MainDictThemes.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\Themes\store\Evening.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\App.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\MaterialDesignColors.dll
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\MaterialDesignColors.pdb
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\MainWindowView.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\MainWindowView.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\WeatherPageView.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\SettingPageView.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\WeatherPageView.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\SettingPageView.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\UserControls\CityBlock.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\UserControls\CityBlock.baml
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\UserControls\CartForecastWeather.g.cs
+D:\Project\C шарп\2-й семестр\prl--10\WpfApp1\obj\Debug\View\UserControls\CartForecastWeather.baml
+C:\Users\railw\source\repos\хуй\bin\Debug\WpfApp1.exe.config
+C:\Users\railw\source\repos\хуй\bin\Debug\WpfApp1.exe
+C:\Users\railw\source\repos\хуй\bin\Debug\WpfApp1.pdb
+C:\Users\railw\source\repos\хуй\bin\Debug\MaterialDesignColors.dll
+C:\Users\railw\source\repos\хуй\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\railw\source\repos\хуй\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\railw\source\repos\хуй\bin\Debug\MaterialDesignColors.pdb
+C:\Users\railw\source\repos\хуй\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\railw\source\repos\хуй\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\railw\source\repos\хуй\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\railw\source\repos\хуй\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\railw\source\repos\хуй\obj\Debug\Themes\MainDictThemes.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\Themes\store\Evening.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\UserControls\CartForecastWeather.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\View\UserControls\CityBlock.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\View\WeatherPageView.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\View\MainWindowView.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\View\SettingPageView.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\View\StartWindowView.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\App.g.cs
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\railw\source\repos\хуй\obj\Debug\App.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\UserControls\CartForecastWeather.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\UserControls\CityBlock.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\WeatherPageView.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\MainWindowView.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\SettingPageView.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\View\StartWindowView.baml
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.g.resources
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.exe
+C:\Users\railw\source\repos\хуй\obj\Debug\WpfApp1.pdb
+C:\Users\railw\source\repos\хуй\obj\Debug\Themes\store\Moning.baml
+<<<<<<< HEAD
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\WpfApp1.exe.config
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\WpfApp1.exe
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\WpfApp1.pdb
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\MaterialDesignColors.dll
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\Themes\MainDictThemes.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\Themes\store\Day.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\Themes\store\Moning.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\Themes\store\Evening.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\UserControls\CartForecastWeather.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\UserControls\CityBlock.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\WeatherPageView.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\MainWindowView.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\SettingPageView.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\StartWindowView.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\App.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\App.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\UserControls\CartForecastWeather.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\UserControls\CityBlock.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\WeatherPageView.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\MainWindowView.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\SettingPageView.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\StartWindowView.baml
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.g.resources
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.exe
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\WpfApp1.pdb
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\Page1.g.cs
+C:\Users\Thinkpad\source\repos\c-_10_pogoda\c-_10_pogoda\obj\Debug\View\Page1.baml
+=======
+>>>>>>> 44cc873b115862736890422f208d333221d845fe
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\Themes\MainDictThemes.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\Themes\store\Day.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\UserControls\CartForecastWeather.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\UserControls\CityBlock.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\WeatherPageView.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\MainWindowView.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\SettingPageView.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\StartWindowView.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\App.g.cs
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1_MarkupCompile.cache
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1_MarkupCompile.lref
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.exe
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.pdb
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\Themes\store\Evening.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\WpfApp1.exe.config
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\WpfApp1.exe
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\WpfApp1.pdb
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\MaterialDesignColors.dll
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\MaterialDesignThemes.Wpf.dll
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\Microsoft.Xaml.Behaviors.dll
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\MaterialDesignColors.pdb
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\MaterialDesignThemes.Wpf.pdb
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\MaterialDesignThemes.Wpf.xml
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+V:\ProjectsOnC#\OrderKWORK\Weather\bin\Debug\Microsoft.Xaml.Behaviors.xml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\Themes\store\Moning.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\App.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\UserControls\CartForecastWeather.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\UserControls\CityBlock.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\WeatherPageView.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\MainWindowView.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\SettingPageView.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\View\StartWindowView.baml
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.g.resources
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.Properties.Resources.resources
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\WpfApp1.csproj.CopyComplete
+V:\ProjectsOnC#\OrderKWORK\Weather\obj\Debug\GeneratedInternalTypeHelper.g.cs
